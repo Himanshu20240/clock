@@ -29,7 +29,7 @@ body {
     top: -60px;
     left: -60px;
     background: linear-gradient(
-        #83e30e, #f30404
+        #fc0000, #fc0000
     );
     animation-name: move-up;
 }
@@ -46,7 +46,7 @@ body {
     bottom: -20px;
     right: -20px;
     background: linear-gradient(
-        #aaf006, #fc0c03
+        #f7db06, #f7db06
     );
     animation-name: move-down;
 }
